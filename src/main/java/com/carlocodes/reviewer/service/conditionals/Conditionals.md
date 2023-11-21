@@ -93,7 +93,7 @@ representations (e.g. days of the week).
 
 5. Ternary Operator:
 The ternary operator, also known as the conditional
-operator or the short-hand if-else, is a concise way
+operator or the shorthand if-else, is a concise way
 to express a simple conditional. It allows you to
 assign a value to a variable based on a condition.
 ```
@@ -115,4 +115,4 @@ needs, `'switch'` statements are more efficient when
 you have multiple options for a single value. Ternary
 operators are handy for compact conditional assignments
 and are often used when you need to set a variable's
-value based on on simple condition.
+value based on a simple condition.
