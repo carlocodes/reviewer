@@ -1,4 +1,4 @@
-# Java Virtual Machine
+# Java Virtual Machine (JVM)
 
 The Java Virtual Machine (JVM) is a crucial component of the Java Runtime
 Environment (JRE), responsible for executing Java bytecode.
